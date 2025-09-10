@@ -3,6 +3,7 @@
 ## Description
 This is a console-based ATM simulation written in Java.  
 It allows users to authenticate using a PIN, check account balance, deposit money, and withdraw money.
+PIN (default PIN: 1234)
 
 ## Features
 - PIN verification
